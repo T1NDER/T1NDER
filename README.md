@@ -37,6 +37,8 @@
 <b>Сейчас я активно учусь и расту в профессии. Моя цель — стать качественным специалистом и найти работу, где я смогу приносить пользу и продолжать развиваться!</b>
 </p>
 
+---
+
 ###
 
 <h3 align="left">📚 Текущее обучение</h3>
@@ -49,6 +51,42 @@
 </p>
 
 ###
+
+---
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" title="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" title="SQLite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+</div>
+
+###
+
+<h3 align="left">🧰 Инструменты:</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
+</div>
+
+###
+
+---
 
 <h3 align="left">📖 Пройденные курсы</h3>
 
@@ -83,41 +121,25 @@
 
 </div>
 
+### SQLACADEMY:
+
+| Курс | Период |
+|------|--------|
+| [Интерактивный курс по SQL](https://sql-academy.org/ru/guide) | август 2026 - н. в. (В процессе) 🔄 |
+
+---
+
 ###
 
 <h3 align="left">🎓 Мой профиль на Stepik</h3>
 
 <div align="center">
   <a href="https://stepik.org/users/750538865" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Мой+профиль+на+Stepik&label=&color=68BB59&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stepik logo" />
+    <img src="https://img.shields.io/static/v1?message=Stepik+Profile&label=&color=68BB59&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stepik logo" />
   </a>
 </div>
 
-###
-
-<h3 align="left">🛠 Технологии:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" title="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" title="SQLite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
-</div>
-
-###
+---
 
 <h3 align="left">📫 Как со мной связаться:</h3>
 
