@@ -89,9 +89,8 @@
 
 <div align="center">
   <a href="https://stepik.org/users/750538865" target="_blank">
-    <img src="https://www.google.com/s2/favicons?domain=stepik.org&sz=128" height="60" alt="stepik logo" />
+    <img src="https://img.shields.io/static/v1?message=Мой+профиль+на+Stepik&label=&color=68BB59&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stepik logo" />
   </a>
-  <p><a href="https://stepik.org/users/750538865" target="_blank">Мой профиль на Stepik</a></p>
 </div>
 
 ###
@@ -122,10 +121,16 @@
 
 <h3 align="left">📫 Как со мной связаться:</h3>
 
-<p align="left">
-- ✉️ <b>Telegram:</b> <a href="https://t.me/tinder0k">@tinder0k</a>
-- 📧 <b>Gmail:</b> <a href="mailto:dsafonov558@gmail.com">dsafonov558@gmail.com</a>
-- 📨 <b>Mail.ru:</b> <a href="mailto:dima73_4728@mail.ru">dima73_4728@mail.ru</a>
-</p>
+<div align="center">
+  <a href="https://t.me/tinder0k" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo" />
+  </a>
+  <a href="mailto:dsafonov558@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  </a>
+  <a href="mailto:dima73_4728@mail.ru">
+    <img src="https://img.shields.io/static/v1?message=Mail.ru&logo=maildotru&label=&color=005FF9&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="mail.ru logo" />
+  </a>
+</div>
 
 ###
