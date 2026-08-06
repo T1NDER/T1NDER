@@ -25,6 +25,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=T1NDER.T1NDER&" />
 </div>
 
+
 ###
 
 <h3 align="left">👨‍💻 Обо мне</h3>
@@ -48,6 +49,8 @@
 - 🌐 <b>Веб-разработчик с нуля с выбором специализации</b>
 - ⚙️ <b>Node.js для бэкенд-разработки</b>
 </p>
+
+
 
 ###
 
@@ -73,6 +76,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
 </div>
 
+
 ###
 
 <h3 align="left">🧰 Инструменты:</h3>
@@ -80,6 +84,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
 </div>
+
+
 
 ##
 
@@ -134,6 +140,9 @@
   </a>
 </div>
 
+
+
+###
 
 <h3 align="left">📫 Как со мной связаться:</h3>
 
