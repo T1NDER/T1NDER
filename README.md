@@ -88,10 +88,10 @@
 <h3 align="left">🎓 Мой профиль на Stepik</h3>
 
 <div align="center">
-  <a href="https://stepik.org/users/750538865/profile target="_blank">
-    <img src="https://stepik.org/static/img/logo.svg" height="60" alt="stepik logo" />
+  <a href="https://stepik.org/users/750538865" target="_blank">
+    <img src="https://www.google.com/s2/favicons?domain=stepik.org&sz=128" height="60" alt="stepik logo" />
   </a>
-  <p><a href="https://stepik.org/users/750538865/profile" target="_blank">Мой профиль на Stepik</a></p>
+  <p><a href="https://stepik.org/users/750538865" target="_blank">Мой профиль на Stepik</a></p>
 </div>
 
 ###
