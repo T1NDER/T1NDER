@@ -25,6 +25,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=T1NDER.T1NDER&" />
 </div>
 
+---
 
 ###
 
@@ -84,6 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
 </div>
 
+---
 
 
 ###
@@ -138,7 +140,7 @@
   </a>
 </div>
 
-
+---
 
 ###
 
