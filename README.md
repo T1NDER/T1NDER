@@ -40,6 +40,7 @@
 </p>
 
 
+
 ###
 
 <h3 align="left">📚 Текущее обучение</h3>
@@ -50,6 +51,7 @@
 - 🌐 <b>Веб-разработчик с нуля с выбором специализации</b>
 - ⚙️ <b>Node.js для бэкенд-разработки</b>
 </p>
+
 
 
 ###
@@ -75,6 +77,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
 </div>
+
 
 
 ###
@@ -129,6 +132,8 @@
 
 </div>
 
+---
+
 
 ###
 
@@ -140,7 +145,6 @@
   </a>
 </div>
 
----
 
 ###
 
